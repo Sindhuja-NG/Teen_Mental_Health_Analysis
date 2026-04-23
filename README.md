@@ -12,7 +12,7 @@ Teen mental Health Dataset
    -The Dataset is a structured type Dataset
 
 
-##Key Obdervations
+##Key Observations
 
 1.The dataset includes both Numerical(age,sleep hours,Screen time) and categorical(gender,Ssocial_interaction_level,Platform_usage)data
 
